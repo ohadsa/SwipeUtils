@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneNumberUtil</string>
+    <string name="country_code">Country code</string>
+    <string name="country">Country</string>
+    <string name="phone_number">Phone number</string>
+    <string name="error_number">Invalid phone number</string>
+    <string name="invalid_phone">Invalid phone number</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+</resources>
