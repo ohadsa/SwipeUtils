@@ -1,6 +1,10 @@
 <body>
     <h1>SwipeUtils</h1>
     <p>SwipeUtils is a lightweight Android Jetpack Compose library that provides swipe-to-reveal functionality for Composable items, similar to the swipe-to-mute feature found in apps like WhatsApp and Telegram. It allows you to wrap any Composable cell and add multiple buttons on both horizontal sides.</p>
+      <span >
+    <img src="https://github.com/ohadsa/SwipeUtils/blob/main/swipeutils/src/main/java/com/ohadsa/afeka/ezgif.com-video-to-gif.gif?raw=true" width="300" 
+     height="600" >
+ </span>
     <h2>Features</h2>
     <ul>
         <li>Wrap any Jetpack Compose cell to implement swipe-to-reveal</li>
